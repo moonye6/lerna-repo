@@ -7,8 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "antd": "^0.10.4",
-    "package-02": "1.0.0"
+    "jquery": "^2.0.0",
+    "package-02": "1.0.0",
+    "underscore": "^1.9.1"
   },
   "author": "",
   "license": "ISC"
