@@ -1,6 +1,6 @@
 {
   "name": "package-01",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,6 @@
     "underscore": "^1.9.1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "9110c53588260bc2e7918ea4dbca1f3c8336d900"
 }

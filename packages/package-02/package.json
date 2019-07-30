@@ -1,7 +1,7 @@
 {
   "name": "package-02",
-  "version": "0.0.2",
-  "description": "11",
+  "version": "0.0.3",
+  "description": "111",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "underscore": "^1.9.1"
-  }
+  },
+  "gitHead": "9110c53588260bc2e7918ea4dbca1f3c8336d900"
 }
