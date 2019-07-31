@@ -2,5 +2,14 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.3"
+  "version": "0.0.3",
+  "changelog": {
+    "labels": {
+      "feature": "New Feature",
+      "bug": "Bug Fix",
+      "fix": "fix"
+    },
+    "repo": "https://github.com/moonye6/lerna-repo.git",
+    "nextVersion": "next Version"
+  }
 }
