@@ -3,5 +3,15 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.16.4"
+  },
+  "changelog": {
+    "labels": {
+      "feature": "feature: New Feature",
+      "fix": "fix: Bug Fix",
+      "doc": "doc: doc",
+      "breaking": "breaking: breaking"
+    },
+    "repo": "https://github.com/moonye6/lerna-repo.git",
+    "nextVersion": "next Version"
   }
 }
