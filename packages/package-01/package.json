@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "jquery": "^2.0.0",
-    "package-02": "^0.0.2",
+    "package-02": "^0.0.3",
     "underscore": "^1.9.1"
   },
   "author": "",

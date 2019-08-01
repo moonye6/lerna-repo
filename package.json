@@ -13,5 +13,8 @@
     },
     "repo": "https://github.com/moonye6/lerna-repo.git",
     "nextVersion": "next Version"
+  },
+  "dependencies": {
+    "lerna-changelog": "^0.8.2"
   }
 }
