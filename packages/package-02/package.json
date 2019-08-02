@@ -9,8 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "underscore": "^1.9.1",
-    "jquery": "^2.0.0"
+    "jquery": "^3.4.1",
+    "loadash": "^1.0.0",
+    "underscore": "^1.9.1"
   },
   "gitHead": "9110c53588260bc2e7918ea4dbca1f3c8336d900"
 }

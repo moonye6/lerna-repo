@@ -7,9 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "jquery": "^2.0.0",
+    "jquery": "^3.4.1",
+    "loadash": "^1.0.0",
     "package-02": "^0.0.3",
-    "underscore": "^1.9.1"
+    "underscore": "^1.9.1",
+    "zepto": "^1.2.0"
   },
   "author": "",
   "license": "ISC",
